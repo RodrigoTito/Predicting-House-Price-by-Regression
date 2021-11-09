@@ -1,1 +1,1 @@
-# Prevendo preço de casa por modelo de regressão 
+# Prevendo preço de casa por regressão 
